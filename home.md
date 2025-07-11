@@ -12,4 +12,4 @@ $\mu$g-Lab (the Microgravity Laboratory) is a research group at Auburn Universit
     - [ALICE](experiments-alice.md)
     - [RaFyX](experiments-rafyx.md)
     - [DODECA](experiments-dodeca.md)
-- [Can I link to box?](https://auburn.box.com/s/3duzx1iuh5b0ut0pcgkw1px3he3r6ngm)
+- [Resources](resources.md)
