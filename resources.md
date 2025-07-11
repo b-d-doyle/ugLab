@@ -1,14 +1,21 @@
 # Resources
-## Group Box links (Must be invited to view)
- - Not sure if this standard or any AU login is more appropriate for things like data?
+## Restricted links
+Some things you should need to be specifically invited to view. The access is controlled at the link location, so Box, github, etc.
+ - Data
+ - The group burn book (a la Mean Girls)
+ - closed github repos
+ - etc.
 
-## Auburn Box links (AU login required)
+## Auburn Box links
+Anyone with an AU account can access these. I suggest this level of access for things undergrads in our lab can pull up via QR code.
  - [Test file](https://auburn.box.com/s/ouchstdlvxrv4oazgabxg0eckbp42uhs)
  - Device info files (Leo's template)
- - data?
+ - procedure writeups
+ - etc.
 
 ## Open resources
- - [Can also create open box links](https://auburn.box.com/s/alzyp0yc4u9cxwlmh4r1h2uhl9j9tyw1)
+Anyone who finds this website can access these.
+ - [Box links can also be open access](https://auburn.box.com/s/alzyp0yc4u9cxwlmh4r1h2uhl9j9tyw1)
  - Papers
- - Youtube
- - etc
+ - open github repos
+ - etc.
