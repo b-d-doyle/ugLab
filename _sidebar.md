@@ -3,6 +3,7 @@
   - [ALICE](experiments-alice.md "ALICE")
   - [RaFyX](experiments-rafyx.md "RaFyX")
   - [DODECA](experiments-dodeca.md "DODECA")
+-[Resources](resources.md) 
 - **Docsify-This Template Info**
   - [GitHub Repository](https://github.com/paulhibbitts/docsify-this-open-publishing-site)
   - [ReadMe](https://github.com/paulhibbitts/docsify-this-open-publishing-site/blob/main/README.md)
