@@ -2,7 +2,7 @@
 
 ## Auburn University
 
-![Photo of DODECA](images/DODECA.jpg)
+![Photo of DODECA](images/dodeca.jpg)
 
 $\mu$g-Lab (the Microgravity Laboratory) is a research group at Auburn University led by Uwe Konopka. This page is under construction.
 
@@ -10,5 +10,5 @@ $\mu$g-Lab (the Microgravity Laboratory) is a research group at Auburn Universit
 - [Our Group](group.md)
 - [Experiments](experiments-overview.md)
     - [ALICE](experiments-alice.md)
-    - [RaFyX](experiments-RaFyX.md)
-    - [DODECA](experiments-DODECA.md)
+    - [RaFyX](experiments-rafyx.md)
+    - [DODECA](experiments-dodeca.md)
