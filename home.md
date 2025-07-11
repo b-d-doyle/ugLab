@@ -1,16 +1,14 @@
-# My Open Publishing Space
+# $\mu$g-Lab
 
-## Create, Share and Collaborate
+## Auburn University
 
-![Photo of Mountain](images/mountain.jpg)
+![Photo of DODECA](images/DODECA.jpg)
 
-[Docsify](https://docsify.js.org/#/) can generate article, portfolio and documentation websites on the fly. Unlike Docusaurus, Hugo and many other Static Site Generators (SSG), it does not generate static html files. Instead, it smartly loads and parses your Markdown content files and displays them as a website.
+$\mu$g-Lab (the Microgravity Laboratory) is a research group at Auburn University led by Uwe Konopka. This page is under construction.
 
 ## Website Pages
-- [Introduction](introduction.md)
-- [Topic One](topic-one.md)
-- [Topic Two](topic-two.md)
-- Topic Three
-    - [Overview](topic-three-overview.md)
-    - [Subtopic One](topic-three-subtopic-one.md)
-    - [Subtopic Two](topic-three-subtopic-two.md)
+- [Our Group](group.md)
+- [Experiments](experiments-overview.md)
+    - [ALICE](experiments-alice.md)
+    - [RaFyX](experiments-RaFyX.md)
+    - [DODECA](experiments-DODECA.md)
