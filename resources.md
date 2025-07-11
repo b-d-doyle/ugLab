@@ -9,6 +9,7 @@ Some things you should need to be specifically invited to view. The access is co
 ## Auburn Box links
 Anyone with an AU account can access these. I suggest this level of access for things undergrads in our lab can pull up via QR code.
  - [Test file](https://auburn.box.com/s/ouchstdlvxrv4oazgabxg0eckbp42uhs)
+ - [RaFyX User's Guide](https://auburn.box.com/s/dbexbgbveot9eyagpeauv2v1ssq3f3bo)
  - Device info files (Leo's template)
  - procedure writeups
  - etc.
