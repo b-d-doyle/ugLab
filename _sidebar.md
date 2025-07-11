@@ -1,3 +1,4 @@
+- [Home](home.md)
 - [Our Group](group.md)
 - [Experiments](experiments-overview.md)
   - [ALICE](experiments-alice.md "ALICE")
