@@ -1,7 +1,3 @@
 # RaFyX
 
-Lorem markdownum vides aram est sui istis excipis Danai elusaque manu fores.
-Illa hunc primo pinum pertulit conplevit portusque pace _tacuit_ sincera. Iam
-tamen licentia exsulta patruelibus quam, deorum capit; vultu. Est *Philomela
-qua* sanguine fremit rigidos teneri cacumina anguis hospitio incidere sceptroque
-telum spectatorem at aequor.
+[RaFyX User's Guide](https://auburn.box.com/s/dbexbgbveot9eyagpeauv2v1ssq3f3bo)
