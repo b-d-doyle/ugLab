@@ -1,4 +1,4 @@
-# COMPACT:
+# COMPACT
 
 COMPACT is a DLR-led next-generation space-flight experiment under development, with a tentative launch date of 2029.
 
