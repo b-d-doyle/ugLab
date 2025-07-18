@@ -1,7 +1,9 @@
 # Our Experiments
 
-Lorem markdownum vides aram est sui istis excipis Danai elusaque manu fores.
-Illa hunc primo pinum pertulit conplevit portusque pace _tacuit_ sincera. Iam
-tamen licentia exsulta patruelibus quam, deorum capit; vultu. Est _Philomela
-qua_ sanguine fremit rigidos teneri cacumina anguis hospitio incidere sceptroque
-telum spectatorem at aequor.
+$\mu$g-Lab has several benchtop-sized glow discharge plasma experiments.
+
+- [ALICE](experiments-alice.md)
+- [COMPACT-GRC](experiments-compactgrc.md)
+- [DODECA](experiments-dodeca.md)
+- [Dust Impact Chamber](experiments-dustimpactchamber.md)
+- [RaFyX](experiments-rafyx.md)
