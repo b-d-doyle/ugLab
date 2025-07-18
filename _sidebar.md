@@ -1,11 +1,6 @@
 - [Home](home.md)
 - [Our Group](group.md)
 - [Experiments](experiments-overview.md)
-  - [ALICE](experiments-alice.md "ALICE")
-  - [COMPACT GRC](experiments-compactgrc.md "COMPACT GRC")
-  - [DODECA](experiments-dodeca.md "DODECA")
-  - [Dust Impact Experiment](experiments-dustimpactexperiment.md "Dust Impact Experiment")
-  - [RaFyX](experiments-rafyx.md "RaFyX")
 - [Resources](resources.md)
 
 [**Created With docsify-this**](https://docsify-this.net/#/)
